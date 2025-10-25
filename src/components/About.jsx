@@ -15,27 +15,12 @@ function About() {
         <h2 className="text-4xl font-extrabold mb-4 tracking-wide">About Me</h2>
 
         <p className="text-lg leading-relaxed mt-4">
-  I am <span className="font-semibold">Bhimaraju Abhiram</span>, an Aspiring Cyber Security Professional with hands-on 
-  experience in penetration testing, vulnerability assessment, and network defense. I have practical expertise in using 
-  advanced security tools such as <span className="text-green-400">Nmap</span> for network scanning, 
-  <span className="text-green-400"> Burp Suite</span> and <span className="text-green-400">OWASP ZAP</span> for web vulnerability testing, 
-  <span className="text-green-400"> DVWA</span> for lab-based exploitation practice, 
-  <span className="text-green-400"> Hping3</span> and <span className="text-green-400">Slowloris</span> for DoS testing, 
-  <span className="text-green-400"> Metasploit Framework</span> for exploitation, 
-  <span className="text-green-400"> SQLMap</span> for database testing, 
-  <span className="text-green-400"> Hydra</span> and <span className="text-green-400">Medusa</span> for password attacks, 
-  <span className="text-green-400"> Nikto</span> for web server scanning, 
-  <span className="text-green-400"> Wireshark</span> for packet analysis, and 
-  <span className="text-green-400"> Splunk Enterprise</span> for SOC operations and log monitoring.
-</p>
+          I’m <span className="font-semibold">Abhiram Bhimaraju</span>, a B.Tech graduate in Computer Science and Engineering (Cybersecurity) from Malla Reddy University, with a strong passion for web application and network penetration testing.
+        </p>
 
-<p className="text-lg leading-relaxed mt-4">
-  I have a strong passion for both <span className="font-semibold">offensive security</span> — identifying and exploiting vulnerabilities — 
-  and <span className="font-semibold">defensive security</span> — monitoring, detecting, and responding to incidents. My goal is to 
-  continuously sharpen my skills, adapt to evolving threats, and contribute to building 
-  <span className="text-green-400 font-semibold"> secure, resilient digital infrastructures</span> through proactive defense 
-  and in-depth penetration testing.
-</p>
+        <p className="text-lg leading-relaxed mt-4">
+          During my internship in Technical Risk Office, I developed practical, hands-on experience in networking, cryptography, network security, the OWASP Top 10, and the WSTG. I have practiced web and network testing on platforms such as <span className="text-green-400">TryHackMe</span>, <span className="text-green-400">PortSwigger Web Security Labs</span>, <span className="text-green-400">Cybrary</span>, and <span className="text-green-400">DVWA</span>, and have used tools including <span className="text-green-400">Kali Linux</span>, <span className="text-green-400">Burp Suite</span>, <span className="text-green-400">Metasploit Framework</span>, <span className="text-green-400">SQLMap</span>, <span className="text-green-400">Nmap</span>, and <span className="text-green-400">Wireshark</span> in lab-based and simulated environments.
+        </p>
       </div>
     </section>
   );

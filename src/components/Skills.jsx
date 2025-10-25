@@ -5,8 +5,8 @@ import { useState } from "react";
 import CodeRain from "./CodeRain";
 
 const skills = [
-  "Networking", "Cryptography","Vulnerability Assessment","Penetration Testing",
-  "Incident Response", "Network Security", "Python Basics", "MERN", "Vite Framework", "MySQL Basics",
+  "Networking", "Cryptography","Vulnerability Assessment","Web Application Penetration Testing",
+  "Ipv4 Subnetting", "Network Security", "MERN Stack", "MySQL Basics",
 ];
 
 const tools = [
@@ -27,7 +27,7 @@ function Skills() {
 
       <div className="relative z-10 w-full max-w-5xl text-white text-center">
         <h2 className="text-4xl font-bold mb-8">
-          {showSkills ? "🧠 Skills Known" : "🛠️ Tools Familiar With"}
+          {showSkills ? "🧠 Skills Known" : "🛠️ Tools Known"}
         </h2>
 
         {/* Toggle Switch */}

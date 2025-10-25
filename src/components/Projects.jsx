@@ -4,62 +4,7 @@ import { useState } from "react";
 import CodeRain from "./CodeRain";
 
 const personalProjects = [
-  {
-    title: "Metasploit Framework for Windows",
-    description:
-      "Using Metasploit Framework for exploitation, payload generation, and vulnerability testing.",
-    liveDemo: "",
-    github: "",
-  },
-  {
-    title: "SQLMap",
-    description:
-      "Automated SQL injection testing with SQLMap, demonstrating database extraction and exploitation.",
-    liveDemo: "",
-    github: "",
-  },
-  {
-    title: "Nmap",
-    description:
-      "Network scanning and reconnaissance using Nmap to identify open ports, services, and OS details.",
-    liveDemo: "",
-    github: "",
-  },
-  {
-    title: "Hydra",
-    description:
-      "Brute force attack demonstration using Hydra to test login credentials security.",
-    liveDemo: "",
-    github: "",
-  },
-  {
-    title: "Medusa",
-    description:
-      "Credential brute force testing with Medusa against different network services.",
-    liveDemo: "",
-    github: "",
-  },
-  {
-    title: "Slowloris",
-    description:
-      "Denial-of-Service (DoS) attack demonstration using Slowloris to exhaust server resources.",
-    liveDemo: "",
-    github: "",
-  },
-  {
-    title: "Hping3",
-    description:
-      "Custom packet crafting and network testing using Hping3 for security assessments.",
-    liveDemo: "",
-    github: "",
-  },
-  {
-    title: "DVWA",
-    description:
-      "Damn Vulnerable Web Application demonstration to practice common web security vulnerabilities.",
-    liveDemo: "",
-    github: "",
-  },
+  
 ];
 
 

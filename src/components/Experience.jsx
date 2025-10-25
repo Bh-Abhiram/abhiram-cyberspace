@@ -5,10 +5,10 @@ function Experience() {
   const experienceData = [
     {
       id: 1,
-      role: "Technical and Risk Operations Intern",
+      role: "Technical Risk Office - Cyber Security Intern",
       organization: "PrimEra Medical Technologies",
       year: "Oct 2024 - Jan 2025",
-      skills: ["Networking","Cryptography","Network Security","Subnetting basics"],
+      skills: ["Networking","Cryptography","Network Security","Ipv4 Subnetting, Web Application Penetration Testing"],
       logo: "https://img.icons8.com/ios-filled/50/hacker.png",
     },
     {
@@ -21,10 +21,10 @@ function Experience() {
     },
     {
       id: 3,
-      role: "Penetration Testing",
+      role: "Web and Network Penetration Testing",
       organization: "Self Learning",
-      year: "Ongoing",
-      skills: ["Burp Suite", "OWASP Top 10", "SQL Injection", "Kali Linux", "XSS", "DoS","Password Cracking","Cryptographic algorithms"],
+      year: "2024 - Present",
+      skills: ["Burp Suite", "OWASP Top 10", "SQL Injection", "Kali Linux", "XSS", "DoS","Password Cracking","WSTG"],
       logo: "https://img.icons8.com/ios-filled/50/anonymous-mask.png",
     },
   ];
