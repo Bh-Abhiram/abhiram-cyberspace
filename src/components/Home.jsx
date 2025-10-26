@@ -58,7 +58,7 @@ export default function HomePage() {
               <FaLinkedin size={30} />
             </a>
             <a
-              href="https://drive.google.com/file/d/1gBIfY5yg-Tg5tEpL-Xko8vmPxgFfuSzH/view?usp=drive_link"
+              href="https://drive.google.com/file/d/18rghc8fu2OpzpvLZ_Nxg4No01zTemP2m/view?usp=drive_link"
               download
               className="bg-blue-600 px-4 py-2 rounded text-white font-semibold"
             >
