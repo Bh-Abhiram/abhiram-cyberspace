@@ -95,7 +95,7 @@ function Contact() {
             <button
               type="submit"
               disabled={loading}
-              className={`${loading ? "bg-gray-500" : "bg-green-500 hover:bg-green-700"} text-black font-bold px-6 py-2 rounded-md transition-all duration-300`}
+              className={`${loading ? "bg-gray-500" : "bg-green-500 hover:bg-green-700"} text-black font-bold px-6 py-2 rounded-md transition-all duration-300 cursor-pointer`}
             >
               {loading ? "Sending..." : "Send Message"}
             </button>
