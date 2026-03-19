@@ -16,7 +16,7 @@ function About() {
           justify-content: center;
           padding: 6rem 1.5rem;
           box-sizing: border-box;
-          overflow-x: hidden;
+          overflow: hidden;
         }
 
         /* Background grid */
