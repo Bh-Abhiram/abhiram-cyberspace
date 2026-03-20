@@ -315,7 +315,7 @@ export default function HomePage() {
               <FaLinkedin />
             </a>
             <a
-              href="https://drive.google.com/file/d/1GqzYFA9ckFLFiBEzkPWOkbHx7EdYDHXP/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1mxuc8MxQYLxnWLXyvdAIldsgt7dsS-gr/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="resume-btn"
