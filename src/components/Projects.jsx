@@ -54,7 +54,7 @@ const projects = [
     description:
       "Developed a secure bookmark management platform enabling users to store and manage bookmarks efficiently.",
     tech: ["Next.js", "Supabase"],
-    github: "https://github.com/Bh-Abhiram",
+    github: "https://online-bookmark-app.vercel.app/",
     tag: "Web App",
   },
 ];
